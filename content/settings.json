@@ -1,24 +1,24 @@
 {
-  "store_id": 4195,
-  "name": "mariobaptista",
   "domain": "mariobaptista.netlify.app",
-  "short_name": "mariobaptista",
-  "description": "mariobaptista",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/mariobaptista",
+  "logo": "/img/uploads/zelina.jpg",
+  "name": "mariobaptista",
+  "short_name": "mariobaptista",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/mariobaptista"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 4195,
+  "description": "mariobaptista",
+  "large_icon": "/img/large-icon.png"
 }
