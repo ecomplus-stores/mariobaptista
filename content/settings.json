@@ -1,7 +1,7 @@
 {
   "domain": "mariobaptista.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#314988",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,8 +16,8 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#1f968b",
+  "icon": "/img/uploads/zelina.jpg",
   "store_id": 4195,
   "description": "mariobaptista",
   "large_icon": "/img/large-icon.png"
